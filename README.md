@@ -9,7 +9,17 @@
 
 ---
 
+### Installation
+
+```bash
+git clone https://github.com/QuestOfHerobrine-Developpement/Pocketmine-MP-plug-in-generator
+```
+```bash
+cd Pocketmine-MP-plug-in-generator
+```
+
 ### Usage
+
 <img src="window.png"/>
 
 #### Parametres
