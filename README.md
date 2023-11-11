@@ -17,11 +17,12 @@ git clone https://github.com/QuestOfHerobrine-Developpement/Pocketmine-MP-plug-i
 ```bash
 cd Pocketmine-MP-plug-in-generator
 ```
+
+### Usage
+
 ```bash
 py src/main.py
 ```
-
-### Usage
 
 <img src="window.png"/>
 
