@@ -33,7 +33,7 @@ py src/main.py
  - `Plug-in version` - Enter the version of your plug-in, for example 0.0.1 or 1.0.0 etc.
  - `Plug-in api` - Enter the pocketmine-mp api version you are using, for example 4.0.0 or 5.0.0.
 
-#### When you're finished, click on "Generate".
+#### When you're finished, click on "Generate". It can take about 1 minute to generate.
 
 ### Contributors
 
